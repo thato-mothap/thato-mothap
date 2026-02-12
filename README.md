@@ -1,7 +1,7 @@
 ## Hi, I'm Thato ❄
 
-🏫 Computer Science Student at Eduvos.</br>
-💻 I am enthusatic about everyhting tech</br>
+🏫 Computer Science Graduate who studied at Eduvos.</br>
+💻 I am enthusatic about everyhting tech and would like to showcase more creative work by developing new systems as well as problem solving current and furutre issues. </br>
 
 NEED TO TAKE A LOOK AT MY PORTOLIO, THEN CLICK HERE:
 (https://thato-mothapo-portfolio.netlify.app/)
