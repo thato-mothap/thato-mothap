@@ -3,6 +3,8 @@
 🏫 Computer Science Student at Eduvos.</br>
 💻 I am enthusatic about everyhting tech</br>
 
+NEED TO TAKE A LOOK AT MY PORTOLIO, THEN CLICK HERE:
+(https://thato-mothapo-portfolio.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tj.the1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thato-mothapo-267234218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thatomothapo9@gmail.com) 
