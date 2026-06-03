@@ -10,13 +10,13 @@
 
 <div align="center">
 
-🔭 I'm currently working on my &nbsp;[Personal Portfolio](https://thato-mothapo-portfolio.netlify.app/)
+🏫 Computer Science Graduate from **Eduvos Midrand**
 
-🌱 I'm currently levelling up in &nbsp;**DevOps, CI/CD & Cloud (AWS)**
+💻 Enthusiastic about everything tech — building creative systems and solving real-world problems
 
-💬 Ask me about **PHP, C#, JavaScript, MySQL or project management**
+🔭 Currently levelling up in **DevOps, CI/CD & Cloud (AWS)**
 
-⚡ Fun fact — I built this entire portfolio from scratch with zero frameworks or templates
+🌐 Check out my portfolio &nbsp;👉&nbsp; **[thato-mothapo-portfolio.netlify.app](https://thato-mothapo-portfolio.netlify.app/)**
 
 </div>
 
@@ -29,6 +29,9 @@
   <a href="https://www.linkedin.com/in/thato-mothapo-267234218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://instagram.com/tj.the1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://thato-mothapo-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -36,27 +39,35 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,python,mysql" /><br><br>
-    <img src="https://skillicons.dev/icons?i=react,git,github,vscode,figma,netlify,linux,bash" /><br><br>
-    <img src="https://skillicons.dev/icons?i=aws,wordpress,notion,visualstudio,powershell,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,java,python" /><br><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,mysql,react,git,github,vscode,figma" /><br><br>
+    <img src="https://skillicons.dev/icons?i=aws,netlify,arduino,raspberrypi,linux,bash,canva,wordpress" />
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thato-mothap&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thato-mothap&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thato-mothap&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thato-mothap&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&border_radius=10" alt="readme stats"/><br/><br/>
+  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=thato-mothap&theme=blue-green&hide_border=false&border_radius=10" alt="streak stats"/><br/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thato-mothap&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="top langs"/>
 </div>
 
-<br/><br/>
+<br/>
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thato-mothap&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
 <hr/>
 
 <h2 align="center">🏅 Certifications</h2>
@@ -69,22 +80,6 @@
 | Fundamentals of ML & AI | Amazon Web Services · Coursera | Completed |
 | Fundamentals of Python | Coursera | [View](https://www.coursera.org/account/accomplishments/records/1E7Z63GVU3OG) |
 | WordPress Fundamentals | Coursera | [View](https://www.coursera.org/account/accomplishments/records/HTWHE7WTH3E8) |
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🚀 About This Repo</h2>
-<br/>
-<div align="center">
-
-This is the source code for my personal portfolio site — hand-coded with pure **HTML, CSS & JavaScript**.
-No frameworks. No templates. Just clean, purposeful code.
-
-Features dark mode · morphing profile animation · scroll-reveal effects · custom cursor · responsive layout
-
-Deployed automatically via **GitHub → Netlify** on every push to `main`.
 
 </div>
 
