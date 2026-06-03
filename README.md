@@ -1,25 +1,98 @@
-## Hi, I'm Thato ❄
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thato-mothap.Thato-Mothapo-Portfolio&format=true"/>
 
-🏫 Computer Science Graduate who studied at Eduvos.</br>
-💻 I am enthusatic about everyhting tech and would like to showcase more creative work by developing new systems as well as problem solving current and furutre issues. </br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thato+Mothapo!;" />
+</h1>
 
-NEED TO TAKE A LOOK AT MY PORTOLIO, THEN CLICK HERE:
-(https://thato-mothapo-portfolio.netlify.app/)
+<h3 align="center">BSc Computer Science Graduate · Full-Stack Developer · Pretoria, South Africa 🇿🇦</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tj.the1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thato-mothapo-267234218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thatomothapo9@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thato-mothap&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thato-mothap&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thato-mothap&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thato-mothap&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🔭 I'm currently working on my &nbsp;[Personal Portfolio](https://thato-mothapo-portfolio.netlify.app/)
 
----
-[![](https://visitcount.itsvg.in/api?id=thato-mothap&icon=0&color=0)](https://visitcount.itsvg.in)
+🌱 I'm currently levelling up in &nbsp;**DevOps, CI/CD & Cloud (AWS)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💬 Ask me about **PHP, C#, JavaScript, MySQL or project management**
+
+⚡ Fun fact — I built this entire portfolio from scratch with zero frameworks or templates
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:thatomothapo9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/thato-mothapo-267234218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://thato-mothapo-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,python,mysql" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,git,github,vscode,figma,netlify,linux,bash" /><br><br>
+    <img src="https://skillicons.dev/icons?i=aws,wordpress,notion,visualstudio,powershell,discord" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thato-mothap&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thato-mothap&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thato-mothap&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h2 align="center">🏅 Certifications</h2>
+<br/>
+<div align="center">
+
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| DevOps Professional Certificate | PagerDuty · LinkedIn Learning | [View](https://www.linkedin.com/learning/certificates/cb691feb6688b09870de59b03f1162df479e049e873aa70f20f30164f8efac56) |
+| Fundamentals of ML & AI | Amazon Web Services · Coursera | Completed |
+| Fundamentals of Python | Coursera | [View](https://www.coursera.org/account/accomplishments/records/1E7Z63GVU3OG) |
+| WordPress Fundamentals | Coursera | [View](https://www.coursera.org/account/accomplishments/records/HTWHE7WTH3E8) |
+
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🚀 About This Repo</h2>
+<br/>
+<div align="center">
+
+This is the source code for my personal portfolio site — hand-coded with pure **HTML, CSS & JavaScript**.
+No frameworks. No templates. Just clean, purposeful code.
+
+Features dark mode · morphing profile animation · scroll-reveal effects · custom cursor · responsive layout
+
+Deployed automatically via **GitHub → Netlify** on every push to `main`.
+
+</div>
+
+<br/><br/>
+<hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+build+something!;" />
+</h1>
+
+<br/>
